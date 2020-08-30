@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+ol, ul{
+    list-style: none;
+}
